@@ -1,0 +1,308 @@
+[04-Feb-2021 23:13:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/broadcasting.php on line 18
+[04-Feb-2021 23:13:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/broadcasting.php on line 18
+[04-Feb-2021 23:13:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/services.php on line 18
+[04-Feb-2021 23:13:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/services.php on line 18
+[04-Feb-2021 23:13:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/database.php on line 18
+[04-Feb-2021 23:13:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/database.php on line 18
+[04-Feb-2021 23:13:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/queue.php on line 16
+[04-Feb-2021 23:13:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/queue.php on line 16
+[04-Feb-2021 23:13:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/session.php on line 21
+[04-Feb-2021 23:13:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/session.php on line 21
+[04-Feb-2021 23:13:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/mail.php on line 19
+[04-Feb-2021 23:13:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zmsend/zmsend/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/view.php on line 17
+[04-Feb-2021 23:13:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zmsend/zmsend/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/view.php on line 17
+[04-Feb-2021 23:13:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/mail.php on line 19
+[04-Feb-2021 23:14:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/logging.php on line 19
+[04-Feb-2021 23:14:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/filesystems.php on line 16
+[04-Feb-2021 23:14:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/hashing.php on line 32
+[04-Feb-2021 23:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/app.php on line 16
+[04-Feb-2021 23:14:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/cache.php on line 21
+[04-Feb-2021 23:14:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/filesystems.php on line 16
+[04-Feb-2021 23:14:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zmsend/zmsend/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/view.php on line 17
+[04-Feb-2021 23:14:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/zmsend/zmsend/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/excel.php on line 91
+[04-Feb-2021 23:14:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/zmsend/zmsend/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/excel.php on line 91
+[04-Feb-2021 23:14:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/logging.php on line 19
+[04-Feb-2021 23:14:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/zmsend/zmsend/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/excel.php on line 91
+[04-Feb-2021 23:14:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/logging.php on line 19
+[04-Feb-2021 23:14:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/mail.php on line 19
+[04-Feb-2021 23:14:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/queue.php on line 16
+[04-Feb-2021 23:14:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/filesystems.php on line 16
+[04-Feb-2021 23:14:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/hashing.php on line 32
+[04-Feb-2021 23:14:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/services.php on line 18
+[04-Feb-2021 23:14:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/hashing.php on line 32
+[04-Feb-2021 23:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/broadcasting.php on line 18
+[04-Feb-2021 23:14:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/session.php on line 21
+[04-Feb-2021 23:14:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/database.php on line 18
+[04-Feb-2021 23:15:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/app.php on line 16
+[04-Feb-2021 23:15:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/app.php on line 16
+[04-Feb-2021 23:16:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/cache.php on line 21
+[04-Feb-2021 23:16:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/cache.php on line 21
+[06-Feb-2021 09:09:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/app.php on line 16
+[06-Feb-2021 09:09:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/mail.php on line 19
+[06-Feb-2021 09:09:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zmsend/zmsend/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/view.php on line 17
+[06-Feb-2021 09:09:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/cache.php on line 21
+[06-Feb-2021 09:10:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/queue.php on line 16
+[06-Feb-2021 09:10:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/zmsend/zmsend/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/excel.php on line 91
+[06-Feb-2021 09:10:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/hashing.php on line 32
+[06-Feb-2021 09:10:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/logging.php on line 19
+[06-Feb-2021 09:10:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/session.php on line 21
+[06-Feb-2021 09:10:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/database.php on line 18
+[06-Feb-2021 09:10:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/services.php on line 18
+[06-Feb-2021 09:10:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/filesystems.php on line 16
+[06-Feb-2021 09:10:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/broadcasting.php on line 18
+[06-Feb-2021 13:05:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/mail.php on line 19
+[06-Feb-2021 13:06:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zmsend/zmsend/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/view.php on line 17
+[06-Feb-2021 13:07:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/queue.php on line 16
+[06-Feb-2021 13:07:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/hashing.php on line 32
+[06-Feb-2021 13:08:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/app.php on line 16
+[06-Feb-2021 13:09:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/session.php on line 21
+[06-Feb-2021 13:09:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/services.php on line 18
+[06-Feb-2021 13:10:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/filesystems.php on line 16
+[06-Feb-2021 13:10:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/broadcasting.php on line 18
+[06-Feb-2021 13:11:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/cache.php on line 21
+[06-Feb-2021 13:12:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/logging.php on line 19
+[08-Feb-2021 22:58:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/database.php on line 18
+[11-Feb-2021 15:30:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/app.php on line 16
+[11-Feb-2021 15:30:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/mail.php on line 19
+[11-Feb-2021 15:30:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zmsend/zmsend/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/view.php on line 17
+[11-Feb-2021 15:30:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/cache.php on line 21
+[11-Feb-2021 15:30:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/queue.php on line 16
+[11-Feb-2021 15:30:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/zmsend/zmsend/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/excel.php on line 91
+[11-Feb-2021 15:30:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/hashing.php on line 32
+[11-Feb-2021 15:30:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/logging.php on line 19
+[11-Feb-2021 15:30:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/session.php on line 21
+[11-Feb-2021 15:30:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/database.php on line 18
+[11-Feb-2021 15:30:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/services.php on line 18
+[11-Feb-2021 15:30:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/filesystems.php on line 16
+[11-Feb-2021 15:30:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zmsend/zmsend/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zmsend/zmsend/config/broadcasting.php on line 18
