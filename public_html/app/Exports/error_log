@@ -1,0 +1,12 @@
+[04-Feb-2021 23:13:38 UTC] PHP Fatal error:  Interface 'Maatwebsite\Excel\Concerns\FromCollection' not found in /home/zmsend/zmsend/app/Exports/GuestsExport.php on line 9
+[04-Feb-2021 23:13:38 UTC] PHP Fatal error:  Interface 'Maatwebsite\Excel\Concerns\FromCollection' not found in /home/zmsend/zmsend/app/Exports/GuestsExport.php on line 9
+[04-Feb-2021 23:13:39 UTC] PHP Fatal error:  Interface 'Maatwebsite\Excel\Concerns\FromCollection' not found in /home/zmsend/zmsend/app/Exports/UsersExport.php on line 9
+[04-Feb-2021 23:13:39 UTC] PHP Fatal error:  Interface 'Maatwebsite\Excel\Concerns\FromCollection' not found in /home/zmsend/zmsend/app/Exports/UsersExport.php on line 9
+[04-Feb-2021 23:13:52 UTC] PHP Fatal error:  Interface 'Maatwebsite\Excel\Concerns\FromCollection' not found in /home/zmsend/zmsend/app/Exports/SubscribersExport.php on line 9
+[04-Feb-2021 23:13:53 UTC] PHP Fatal error:  Interface 'Maatwebsite\Excel\Concerns\FromCollection' not found in /home/zmsend/zmsend/app/Exports/SubscribersExport.php on line 9
+[04-Feb-2021 23:14:07 UTC] PHP Fatal error:  Interface 'Maatwebsite\Excel\Concerns\FromCollection' not found in /home/zmsend/zmsend/app/Exports/SubscribersExport.php on line 9
+[04-Feb-2021 23:14:33 UTC] PHP Fatal error:  Interface 'Maatwebsite\Excel\Concerns\FromCollection' not found in /home/zmsend/zmsend/app/Exports/UsersExport.php on line 9
+[04-Feb-2021 23:14:33 UTC] PHP Fatal error:  Interface 'Maatwebsite\Excel\Concerns\FromCollection' not found in /home/zmsend/zmsend/app/Exports/GuestsExport.php on line 9
+[05-Feb-2021 14:46:12 UTC] PHP Fatal error:  Interface 'Maatwebsite\Excel\Concerns\FromCollection' not found in /home/zmsend/zmsend/app/Exports/GuestsExport.php on line 9
+[05-Feb-2021 14:54:16 UTC] PHP Fatal error:  Interface 'Maatwebsite\Excel\Concerns\FromCollection' not found in /home/zmsend/zmsend/app/Exports/SubscribersExport.php on line 9
+[07-Feb-2021 14:18:43 UTC] PHP Fatal error:  Interface 'Maatwebsite\Excel\Concerns\FromCollection' not found in /home/zmsend/zmsend/app/Exports/UsersExport.php on line 9

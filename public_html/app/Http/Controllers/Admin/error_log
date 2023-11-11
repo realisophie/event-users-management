@@ -1,0 +1,8 @@
+[07-Feb-2021 21:47:24 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Admin/AnalyticsController.php on line 10
+[07-Feb-2021 21:48:46 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Admin/ImageController.php on line 10
+[07-Feb-2021 21:50:07 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Admin/EmailController.php on line 9
+[07-Feb-2021 21:51:06 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Admin/NewsletterController.php on line 13
+[07-Feb-2021 21:52:50 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Admin/PlanController.php on line 14
+[07-Feb-2021 21:55:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Admin/UserController.php on line 10
+[07-Feb-2021 21:59:02 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Admin/EmailRecordController.php on line 11
+[07-Feb-2021 22:01:06 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Admin/BlogController.php on line 10

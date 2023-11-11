@@ -1,0 +1,10 @@
+[11-Feb-2021 14:05:38 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/zmsend/zmsend/app/Http/Controllers/Auth/SocialLogin.php on line 7
+[11-Feb-2021 14:05:55 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Auth/EventController.php on line 21
+[11-Feb-2021 14:06:11 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Auth/StripeController.php on line 11
+[11-Feb-2021 14:06:25 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Auth/ZoomController.php on line 10
+[11-Feb-2021 14:06:39 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Auth/PaymentController.php on line 10
+[11-Feb-2021 14:06:55 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Auth/LoginController.php on line 9
+[11-Feb-2021 14:07:06 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Auth/RegisterController.php on line 12
+[11-Feb-2021 14:07:22 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[11-Feb-2021 14:08:20 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Auth/SocialLoginController.php on line 12
+[11-Feb-2021 14:09:31 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/zmsend/zmsend/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
