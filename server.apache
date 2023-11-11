@@ -1,0 +1,3 @@
+ServerName phpstack-1085356-3796410.cloudwaysapps.com
+ServerAlias www.phpstack-1085356-3796410.cloudwaysapps.com www.zmsend.com zmsend.com
+ServerAlias www.zmsend.com #UI_Domain_alias
